@@ -1,5 +1,17 @@
 // Mechanics //
 You commit the crime then play as the detective investigating the clues.
+Evidence Physics
+Every character has a blood type, unique fingerprint, eye color, hair color, age, height, weight, sex, race, build (e.g., muscular, slim), dental records, complexion (e.g., clear skin, scars), speech pattern (e.g., pitch, slang, lisp), walking gait, clothing, and personality.
 
+Statements
+You can press on statements, the witness/suspect will reveal information if they were withholding any from you. Pressing will give them +1 agitation. Each witness/suspect has a patience limit (2-10), if you press them past that point they will no longer take questions.
+If a suspect cracks on multiple questions, they are a top suspect. If someone cracks on only one or two statements they are probably nervous but innocent.
+Psychopaths will never crack. Look for them to show no emotion or no change in emotion for the entire interrogation.
+
+
+Criminal Gameplay
+You can choose to leave a calling card, which will make it easier for the detective to identify you but will be worth less experience.
+The best way to find which statements to press is to look for contradictions. Interview suspects in order of least important to most important, that way you have the most evidence possible to cross-reference for contradictions.
 
 // Game Design Research //
+Play Return of the Obra Dinn
