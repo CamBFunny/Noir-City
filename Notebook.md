@@ -1,6 +1,6 @@
 # Mechanics
 You commit the crime then play as the detective investigating the clues.  \
-Evidence Physics  \
+Evidence Physics: If you decide something is a piece of evidence, the detective will drop down a numbered evidence card where you're standing. A pop-up confirms the evidence number and that it is added to your case board.  \
 Every character has a blood type, unique fingerprint, eye color, hair color, age, height, weight, sex, race, build (e.g., muscular, slim), dental records, complexion (e.g., clear skin, scars), speech pattern (e.g., pitch, slang, lisp), walking gait, clothing, and personality.  
 
 ### Statements 
@@ -12,6 +12,7 @@ Psychopaths will never crack. Look for them to show no emotion or no change in e
 ### Criminal Gameplay 
 You watch the crime be committed through security footgae, then the camera zooms out to a 3rd person view of the detective watching the footage. \
 Criminal controls are point and click. Detective gameply is 3D movement.  \
+The longer you take and the more actions you make, the higher chance of you leaving behind trace samples of dna. (Hair, skin, fingerprints)  \
 You can choose to leave a calling card, which will make it easier for the detective to identify you but will be worth less experience.  \
 The best way to find which statements to press is to look for contradictions. Interview suspects in order of least important to most important, that way you have the most evidence possible to cross-reference for contradictions.  \
 You can choose what the motive was. Options will be included to have no motive and to have the motive be a mystery for you to figure out.  \
