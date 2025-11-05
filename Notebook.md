@@ -26,6 +26,12 @@ The yellow door is a vague motive, like "grudge" or "money." The detective can u
 The red door is motive unknown. The game will randomly pick a motive, or it will be a psychopath who has no motive.  
 
 # Writing
+Intro Tutorial
+You take control of a man in a busy hotel lobby. You're given a mission, "Go to room 217."  \
+You go to the door of room 217. Press SPACE to knock. The sound of a knock should feel very responsive to each time you press the Spacebar.  \
+Press E to open will be greyed out with a key symbol and a line crossing it out. This will show that you can open unlocked doors or find the key for locked ones.  \
+After 
+
 Example 1
 The victim is found dead in their movie seat. Everyone thought they were sleeping until the janitor took a closer look.  \
 The theater attendant says the victim arrived alone and bought a single ticket. (Did a random stranger murder her? Or did she meet a date there?)  \
