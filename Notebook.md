@@ -1,13 +1,12 @@
 # Mechanics
 You commit the crime then play as the detective investigating the clues.  \
 Evidence Physics  \
-Every character has a blood type, unique fingerprint, eye color, hair color, age, height, weight, sex, race, build (e.g., muscular, slim), dental records, complexion (e.g., clear skin, scars), speech pattern (e.g., pitch, slang, lisp), walking gait, clothing, and personality.  \
+Every character has a blood type, unique fingerprint, eye color, hair color, age, height, weight, sex, race, build (e.g., muscular, slim), dental records, complexion (e.g., clear skin, scars), speech pattern (e.g., pitch, slang, lisp), walking gait, clothing, and personality.  
 
 ### Statements 
 You can press on statements, the witness/suspect will reveal information if they were withholding any from you. Pressing will give them +1 agitation. Each witness/suspect has a patience limit (2-10), if you press them past that point they will no longer take questions.  \
 If a suspect cracks on multiple questions, they are a top suspect. If someone cracks on only one or two statements they are probably nervous but innocent.  \
-Psychopaths will never crack. Look for them to show no emotion or no change in emotion for the entire interrogation.  \
-
+Psychopaths will never crack. Look for them to show no emotion or no change in emotion for the entire interrogation.  
 
 
 ### Criminal Gameplay 
@@ -16,36 +15,30 @@ Criminal controls are point and click. Detective gameply is 3D movement.  \
 You can choose to leave a calling card, which will make it easier for the detective to identify you but will be worth less experience.  \
 The best way to find which statements to press is to look for contradictions. Interview suspects in order of least important to most important, that way you have the most evidence possible to cross-reference for contradictions.  \
 You can choose what the motive was. Options will be included to have no motive and to have the motive be a mystery for you to figure out.  \
-Objects, decisions, and motives will have a green, yellow, and red color to signify their difficulty.  \
+Objects, decisions, and motives will have a green, yellow, and red color to signify their difficulty.  
 
 Weapons: Green objects are left on the crime scene. Yellow objects are dumped somewhere around the city, finding it will be time sensitive.   \
-Red objects are destroyed after the crime is committed, leaving behind no evidence. Red objects can only be deduced by the wound type of the victim and clues left on the crime scene.  \
+Red objects are destroyed after the crime is committed, leaving behind no evidence. Red objects can only be deduced by the wound type of the victim and clues left on the crime scene.  
 
 Motive: The criminal enters the crime scene through one of three doors. The green door has the motive written on it, and the detective will be told this motive when he's briefed as the scene  \
 The yellow door is a vague motive, like "grudge" or "money." The detective can use this as a hint to narrow down suspects who may fit that clue.  \
-The red door is motive unknown. The game will randomly pick a motive, or it will be a psychopath who has no motive.  \
-
-
-
-
-
+The red door is motive unknown. The game will randomly pick a motive, or it will be a psychopath who has no motive.  
 
 # Writing
 Example 1
-The victim is found dead in their movie seat. Everyone thought they were sleeping until the janitor took a closer look.
-The theater attendant says the victim arrived alone and bought a single ticket. (Did a random stranger murder her? Or did she meet a date there?)
-The victim's friend says she was actually meeting her date there.
-A blade with the victim's blood was found in an alley 3 blocks from the theater.
+The victim is found dead in their movie seat. Everyone thought they were sleeping until the janitor took a closer look.  \
+The theater attendant says the victim arrived alone and bought a single ticket. (Did a random stranger murder her? Or did she meet a date there?)  \
+The victim's friend says she was actually meeting her date there.  \
+A blade with the victim's blood was found in an alley 3 blocks from the theater.  \
 The killer confessed when confronted with the murder weapon.
 
 Example 2
-Man hit in back of head with blunt object. Passed away shortly after.
-Facility next to crime scene makes acid.
-Blood from the victim was found on the floor inside the facility. The detective thinks an employee committed the murder and dissolved the evidence.
+Man hit in back of head with blunt object. Passed away shortly after.  \
+Facility next to crime scene makes acid.  \
+Blood from the victim was found on the floor inside the facility. The detective thinks an employee committed the murder and dissolved the evidence.  
 
 
-
-// Game Design Research //
+# Game Design Research 
 Play Return of the Obra Dinn
 
 
